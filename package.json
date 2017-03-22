@@ -1,0 +1,19 @@
+{
+  "name": "preposition",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhydride/preposition.git"
+  },
+  "author": "Anhydride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhydride/preposition/issues"
+  },
+  "homepage": "https://github.com/anhydride/preposition#readme"
+}

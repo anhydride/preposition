@@ -1,3 +1,3 @@
 export default function hasProperty(k) {
-	return k in this
+	return 'object' == typeof this && null !== this && k in this
 }
